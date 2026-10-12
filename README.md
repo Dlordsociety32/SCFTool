@@ -10,6 +10,24 @@ After several years of updating the code, I hereby announce the SCF Tool source 
 
 The final update was made on May 15, 2021 with version 22.1 and the project officially has been discontinued.
 
+# Development Background
+
+SCFTool is a legacy Windows Batch Script utility based on an earlier project discovered on an online forum in 2013.
+
+I substantially rewrote the original source code, redesigned existing functionality, and independently developed additional features.
+
+The project continued evolving over several years, eventually reaching version 22.1 in May 2021.
+
+Although the original forum source is no longer readily discoverable, this repository preserves my independently developed modifications and the project’s technical history.
+
+My contributions:
+
+* Substantial rewriting of the original Batch Script code
+* Development of additional features
+* Improvements to existing functionality
+* Long-term maintenance and version updates
+* Preservation of the final project source code
+
 Any feedback via Telegram:
 https://t.me/Dlordsociety32
 
